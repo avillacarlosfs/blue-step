@@ -1,5 +1,21 @@
 # Technical Assessment 
 
+## Installation
+```bash
+//Clone project
+git clone https://github.com/avillacarlosfs/blue-step.git
+
+//Navigate to Project Directory
+cd blue-step
+
+//Install Dependencies
+npm install 
+
+// Run Development Server
+npm run dev
+
+```
+## Instructions
 ### Step 1: Create a Sign-up Form Component
 Develop a sign-up form component to capture user information.
 
